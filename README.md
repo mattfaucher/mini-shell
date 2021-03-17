@@ -6,5 +6,3 @@ All UNIX commands are available as well as my own custom built-in commands.
 
 *Must be compiled with -lreadline*
 
-
-![mini-shell screenshot](https://github.com/mattfaucher/mini-shell/blob/main/mini-shell.png)
